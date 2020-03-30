@@ -1,0 +1,62 @@
+.tdiw {
+  border: solid 1px #ccc;
+  text-align: center;
+  max-width: 180px;
+  min-width: 90px;
+  overflow: hidden;
+  padding: 8px;
+}
+
+.thback {
+  background: #F5F5F5;
+}
+
+.icona {
+  font-size: 18px !important;
+  width: 30px !important;
+  height: 30px !important;
+  border-radius: 5px !important;
+}
+
+.icondele {
+  font-size: 18px !important;
+  width: 30px !important;
+  height: 30px !important;
+  margin-left: 10px !important;
+  border-radius: 5px !important;
+}
+
+.rigth {
+  float: right;
+}
+
+.marginRight {
+  margin-right: 60px;
+}
+
+.marginTop {
+  margin-top: 40px;
+}
+
+.tohidebox {
+  width: 180px;
+  height: 100px;
+  background: rgba(207, 207, 207, 0.418);
+  position: fixed;
+  top: 50%;
+  left: 40%;
+  z-index: 1000;
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: center;
+  line-height: 100px;
+}
+
+.hide {
+  display: none;
+}
+
+.bolcks {
+  display: block;
+  color: green;
+}
